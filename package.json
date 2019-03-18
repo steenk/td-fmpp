@@ -1,6 +1,6 @@
 {
   "name": "td-fmpp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Grunt wrapper for fmpp.",
   "main": "tasks/index.js",
   "scripts": {
