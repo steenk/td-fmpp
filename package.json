@@ -1,0 +1,25 @@
+{
+  "name": "td-fmpp",
+  "version": "0.1.0",
+  "description": "Grunt wrapper for fmpp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steenk/td-fmpp.git"
+  },
+  "keywords": [
+    "fmpp"
+  ],
+  "author": "steenk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steenk/td-fmpp/issues"
+  },
+  "homepage": "https://github.com/steenk/td-fmpp#readme",
+  "dependencies": {
+    "grunt": "~1.0.3"
+  }
+}
