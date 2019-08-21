@@ -10,7 +10,7 @@ module.exports = function(grunt) {
         let config = this.data.config || 'config.fmpp';
         let temp = path.resolve(__dirname, '../../../.temp.log');
 
-        let cmd = 'java -jar ' + path.resolve(__dirname, 'lib/fmpp.jar') + ' -C ' + 
+        let cmd = 'java -jar ' + path.resolve(__dirname, 'lib/fmpp.jar') + ' -output-format=HTML -C ' + 
             path.resolve(__dirname, '../../..', config) + ' > ' + temp;
 
         execSync(cmd);
