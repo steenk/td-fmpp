@@ -1,6 +1,6 @@
 {
   "name": "td-fmpp",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "description": "Grunt wrapper for fmpp.",
   "main": "tasks/index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/steenk/td-fmpp#readme",
   "dependencies": {
-    "grunt": "~1.0.3"
+    "grunt": "^1.0.4"
   }
 }
